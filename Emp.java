@@ -7,6 +7,8 @@ public class Emp {
     private String department;
     private int age;
     private Double salary;
+	
+	// this is intentional comment added to demonstrate how git diff works.
 
     public Emp(String name, String gender, String department, int age, Double salary) {
         this.name = name;
