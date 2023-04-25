@@ -8,6 +8,8 @@ import java.util.stream.Collectors;
 public class TestMain {
 
     public static void main(String[] args) {
+		
+		// creating dummy objects to add to the list.
 
         Employee e1 = new Employee("aniket", "Male", "IT", 30);
         Employee e2 = new Employee("nikhil", "Male", "HR", 20);
